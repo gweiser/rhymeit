@@ -1,0 +1,7 @@
+
+How to play RhymeIt
+
+RhymeIt is a game designed to challenge your english vocabulary skills. You will be shown a word, to which you need to find a rhyme.
+This is not always as easy as it sounds, some words rhyme phonetically and will be hard to think of. You will recieve a point for 
+each correct rhyme. A false rhyme will result in Game Over. You can beat your high score, the sky's the limit. 
+Have fun! 
